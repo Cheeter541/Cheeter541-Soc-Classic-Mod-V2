@@ -5,9 +5,8 @@ New Features:
 (1) Fly with Frog backpack
 (2) Able to trade loot items
 (3) Able to trade Champ Bag
-(4) Able to trade Vhan Sword
-(5) Able to trade Colorful toy block
-(6) Able to sell USA Bag
+(4) Able to trade Colorful toy block
+(5) Able to sell USA Bag
 Old Features: 
 (1) Pressing use on Apple spawns items
 (2) Able to go to the Elite Zone and the War Room at level 1 and without a clan
