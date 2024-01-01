@@ -1,6 +1,6 @@
 Warning: Sell all of your apples before you download the mod!
 Credits to hiyall for teaching me, none of this would've been possible without him
-https://www.mediafire.com/file/dorcdp3qcjg9ky1/Dr.+NaN+SoC+Classic+V2.apk/file
+https://www.mediafire.com/file/dorcdp3qcjg9ky1/Cheeter541_SoC_Classic_V2.apk/file
 New Features:
 (1) Fly with Frog backpack
 (2) Able to trade loot items
